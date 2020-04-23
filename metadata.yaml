@@ -1,0 +1,28 @@
+_repo: Riesen-und-Drachen-der-Vorzeit-Geschichte-der-Erde-Dritter-Teil_61850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bommeli, R. (Rudolf)
+    alias: Bommeli, Rudolf
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '51645'
+    url: http://www.gutenberg.org/2009/agents/51645
+description: ''
+gutenberg_issued: '2020-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61850'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cosmogony'
+- !lcsh 'Paleontology'
+- !lcsh 'Earth (Planet)'
+- !lcc 'QE'
+- !lcsh 'Geology'
+- GITenberg
+title: Riesen und Drachen der Vorzeit. Geschichte der Erde, Dritter Teil
+url: http://www.gutenberg.org/ebooks/61850
